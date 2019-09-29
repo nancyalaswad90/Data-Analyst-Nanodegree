@@ -27,3 +27,4 @@ Your goal will be to create a visualization and prepare a write up describing th
     -  “How do the changes in your city’s temperatures over time compare to the changes in the global average?”
     
     -  What does the overall trend look like? Is the world getting hotter or cooler? Has the trend been consistent over the last few hundred years?
+    
