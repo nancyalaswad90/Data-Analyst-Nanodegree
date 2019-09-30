@@ -7,20 +7,27 @@ The dataset that you will be wrangling (and analyzing and visualizing) is the tw
 
 WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exclusively for you to use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017. More on this soon.
 
-WeRateDogs banner
-Image via Boston Magazine
+![image](https://user-images.githubusercontent.com/36210723/65845811-4536a080-e344-11e9-96c7-63c9fac4de79.png)
 
-What Software Do I Need?
+
+                        Image via Boston Magazine
+
+
+##  What Software Do I Need?
+
 The entirety of this project can be completed inside the Udacity classroom on the Project Workspace: Complete and Submit Project page using the Jupyter Notebook provided there. (Note: This Project Workspace may not be available in all versions of this project, in which case you should follow the directions below.)
 
 If you want to work outside of the Udacity classroom, the following software requirements apply:
 
-You need to be able to work in a Jupyter Notebook on your computer. Please revisit our Jupyter Notebook and Anaconda tutorials earlier in the Nanodegree program for installation instructions.
-The following packages (libraries) need to be installed. You can install these packages via conda or pip. Please revisit our Anaconda tutorial earlier in the Nanodegree program for package installation instructions.
-pandas
-NumPy
-requests
-tweepy
-json
+    - You need to be able to work in a Jupyter Notebook on your computer. Please revisit our Jupyter Notebook and Anaconda tutorials earlier in the Nanodegree program for installation instructions.
+    
+    - The following packages (libraries) need to be installed. You can install these packages via conda or pip. Please revisit our Anaconda tutorial earlier in the Nanodegree program for package installation instructions.
+    
+      -  pandas
+      -  NumPy
+      - requests
+      - tweepy
+      - json
+      
 You need to be able to create written documents that contain images and you need to be able to export these documents as PDF files. This task can be done in a Jupyter Notebook, but you might prefer to use a word processor like Google Docs, which is free, or Microsoft Word.
 A text editor, like Sublime, which is free, will be useful but is not required.
