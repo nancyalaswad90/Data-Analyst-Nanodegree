@@ -20,7 +20,7 @@ Data Analyst Nanodegree Certificate
 
 - Project ( 1) :  [Exploring Weather Trends](https://github.com/nancyalaswad90/Udacity-Data-Analyst-Nanodegree/tree/master/Project%201)
 
-- Project ( 1) :  
+- Project ( 2) :  [Bike_Share_Analysis](https://github.com/nancyalaswad90/Udacity-Data-Analyst-Nanodegree/tree/master/Project%202)
 
 - Project ( 1) :  
 - Project ( 1) :  
