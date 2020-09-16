@@ -28,9 +28,11 @@ Data Analyst Nanodegree Certificate
 
 - Project ( 5) :  [Test a Perceptual Phenomenon](https://github.com/nancyalaswad90/Udacity-Data-Analyst-Nanodegree/tree/master/Project%205)
 
-- Project ( 6) : [Wrangle and Analyze Data](https://github.com/nancyalaswad90/Udacity-Data-Analyst-Nanodegree/tree/master/project%207) 
+- Project ( 6) : [Prosper Loan Data](https://github.com/nancyalaswad90/Udacity-Data-Analyst-Nanodegree/tree/master/Project%206)
 
 
 
 - Project ( 7) : [Wrangle and Analyze Data](https://github.com/nancyalaswad90/Udacity-Data-Analyst-Nanodegree/tree/master/project%207) 
-- Project ( 1) :  
+
+
+- Project ( 8) :  
