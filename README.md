@@ -35,4 +35,7 @@ Data Analyst Nanodegree Certificate
 - Project ( 7) : [Wrangle and Analyze Data](https://github.com/nancyalaswad90/Udacity-Data-Analyst-Nanodegree/tree/master/project%207) 
 
 
-- Project ( 8) :  
+- Project ( 8) :  [Tableau : Prosper Loan Data ](https://github.com/nancyalaswad90/Udacity-Data-Analyst-Nanodegree/tree/master/project%208)
+
+.
+
