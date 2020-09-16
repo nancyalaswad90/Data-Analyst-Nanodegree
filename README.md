@@ -23,7 +23,10 @@ Data Analyst Nanodegree Certificate
 - Project ( 2) :  [Bike_Share_Analysis](https://github.com/nancyalaswad90/Udacity-Data-Analyst-Nanodegree/tree/master/Project%202)
 
 - Project ( 3) :  [investigate-a-dataset-template ](https://github.com/nancyalaswad90/Udacity-Data-Analyst-Nanodegree/tree/master/Project%203)
+
 - Project ( 4) :  [Analyze A/B Test Results ](https://github.com/nancyalaswad90/Udacity-Data-Analyst-Nanodegree/tree/master/Project%204)
-- Project ( 1) :  
-- Project ( 1) :  
+
+- Project ( 5) :  [Test a Perceptual Phenomenon](https://github.com/nancyalaswad90/Udacity-Data-Analyst-Nanodegree/tree/master/Project%205)
+
+- Project ( 6) :  
 - Project ( 1) :  
