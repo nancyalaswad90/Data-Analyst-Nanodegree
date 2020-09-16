@@ -18,4 +18,12 @@ Data Analyst Nanodegree Certificate
 ## Projects :
 
 
-- [Exploring Weather Trends]()
+- Project ( 1) :  [Exploring Weather Trends](https://github.com/nancyalaswad90/Udacity-Data-Analyst-Nanodegree/tree/master/Project%201)
+
+- Project ( 1) :  
+
+- Project ( 1) :  
+- Project ( 1) :  
+- Project ( 1) :  
+- Project ( 1) :  
+- Project ( 1) :  
