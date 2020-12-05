@@ -24,7 +24,7 @@ Data Analyst Nanodegree Certificate
 
 - Project ( 3) :  [investigate-a-dataset-template ](https://github.com/nancyalaswad90/Udacity-Data-Analyst-Nanodegree/tree/master/Project%203)
 
-- Project ( 4) :  [Analyze A/B Test Results ](https://github.com/nancyalaswad90/Udacity-Data-Analyst-Nanodegree/tree/master/Project%204)
+- Project ( 4) :  [Analyze A/B Test Results ](https://github.com/nancyalaswad90/Analyze-A-B-Test-)
 
 - Project ( 5) :  [Test a Perceptual Phenomenon](https://github.com/nancyalaswad90/Udacity-Data-Analyst-Nanodegree/tree/master/Project%205)
 
